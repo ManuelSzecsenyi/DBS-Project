@@ -16,3 +16,7 @@
 $router->get('/', function () use ($router) {
     return view("hello");
 });
+
+$router->get('/add/artikel', function () use ($router) {
+    return view("add.artikel");
+});

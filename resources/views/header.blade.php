@@ -33,7 +33,7 @@
                         Datensatz hinzufügen
                         </a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">Artikel</a>
+                            <a class="dropdown-item" href="/add/artikel">Artikel</a>
                             <a class="dropdown-item" href="#">Kunden</a>
                             <a class="dropdown-item" href="#">Rechnung</a>
                             <a class="dropdown-item" href="#">Artikel zu Rechnung</a>
